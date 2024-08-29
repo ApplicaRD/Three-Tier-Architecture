@@ -16,3 +16,6 @@
 - La única capa que se comunica con ambas es la capa de negocio.
 
 ### Este patrón asegura un mayor nivel de separación de responsabilidades, haciendo que la aplicación sea más mantenible, escalable y modular.
+
+
+![alt text](https://github.com/ApplicaRD/Three-Tier-Architecture/blob/main/Three-Tier-Architecture.png?raw=true)
